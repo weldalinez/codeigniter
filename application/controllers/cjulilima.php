@@ -11,7 +11,7 @@ class Cjulilima extends CI_Controller {
 		$this->load->model("mjulilima_model");
 		//$this->load->view("vjulilimasatu");
 		//$this->load->view("vjulilimadua");
-		
+		//tes;
 	}
 
 	public function index()
