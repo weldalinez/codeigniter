@@ -222,7 +222,7 @@
 
 		#nav {
  			height: 45px;
- 			width: 100px;
+ 			width: 960px;
  			background-color: #222;
  		}
 
@@ -230,7 +230,7 @@
  			list-style: none;
  			padding: 0;
  			margin: 0;
- 			height: 0px;
+ 			height: 45px;
  		}
 
 		#nav ul li {

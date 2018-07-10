@@ -3,6 +3,7 @@
 	<title>Page 1</title>
   <base href="http://localhost/codeigniter/" />
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="<?php echo base_url('/css/theme.css')?>" />
 	</head>
 
 <body>
@@ -31,8 +32,5 @@
       <div class="form-group">  
           <input type="submit" name="insert" value="Insert" class="btn btn-info" />  </div>
     </form>   
-    <div id="body">
-        <p>If you would like to see the table, click <a href="./cjulilima/vdua">here</a>!</p>
-    </div>
 </body>
 </html>

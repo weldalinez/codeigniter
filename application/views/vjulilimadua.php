@@ -1,7 +1,14 @@
+<html>
+<head>
+  <title>Page 2</title>
+  <base href="http://localhost/codeigniter/" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="<?php echo base_url('/css/theme.css')?>" />
+</head>
 <h3 align="center">Data</h3>
 <br />  
 <div class="table-responsive">  
-    <table class="table table-bordered">  
+    <table align="center" class="table table-bordered">  
         <tr>  
         <th>NPM</th>  
         <th>Nama</th>  
@@ -27,6 +34,4 @@
         ?>  
   </table>
 </div>
-<div id="body">
-    <p>If you would like to see the previous page, click <a href=".">here</a>!</p>
-</div>
+</html>
